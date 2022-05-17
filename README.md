@@ -34,6 +34,8 @@ b.	For the hidden units.
 </br>
 </br>
 </br> 
+</br>
+</br> 
 
 ## Algorithm
 1.Import packages
